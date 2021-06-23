@@ -1,0 +1,35 @@
+.players-info {
+    box-sizing: border-box;
+    box-shadow: 1px 1px 5px gray;
+    margin: 30px ;
+    padding: 20px;
+}
+
+.players-info h2 {
+    color: green;
+}
+
+.players-info img {
+    min-width: 10rem;
+    max-width: 60%;
+}
+
+.players-info button {
+    font-size: 17px;
+    font-weight: 400;
+    width: 4rem;
+    height: 4rem;
+    background-color: green;
+    color: cornsilk;
+    outline: none;
+    border: 0.5px solid lightgray;
+    border-radius: 50%;
+}
+
+.players-info button:hover {
+    font-size: 20px;
+    font-weight: 600;
+    color: green;
+    background-color: cornsilk;
+    border: 0.3px solid green;
+}

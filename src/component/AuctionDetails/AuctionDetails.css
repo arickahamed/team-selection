@@ -1,0 +1,9 @@
+.auction-container {
+    display: flex;
+}
+
+.player-details {
+    min-width: 15rem;
+    max-width: 70%;
+}
+
